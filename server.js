@@ -26,6 +26,7 @@ mongoose
 
 // images routes
 app.use("/uploads/images", express.static(path.join("uploads", "images")));
+app.use(express.static(path.join("public")));
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
@@ -43,6 +44,10 @@ app.use("/api/places", placesRoutes);
 
 // routes starting with /api/users
 app.use("/api/users", usersRoutes);
+
+app.use((req, res, next) => {
+  res.sendFile(path.resolve(__dirname, "public", "index.html"));
+});
 
 //error handling
 app.use((req, res, next) => {
