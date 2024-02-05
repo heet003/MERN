@@ -1,0 +1,8 @@
+{
+    "env":{
+        "JWT_KEY":"This_Is_My_Private_key",
+        "DB_USER":"heetB",
+        "DB_PASSWORD":"yp5Bpyj9yfNkfYpC",
+        "DB_NAME":"mern"
+    }
+}
