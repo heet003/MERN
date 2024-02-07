@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8402ba7.css",
+    "main.js": "/static/js/main.f5793dfa.js",
+    "static/css/864.a802fa34.chunk.css": "/static/css/864.a802fa34.chunk.css",
+    "static/js/864.ec3d3e40.chunk.js": "/static/js/864.ec3d3e40.chunk.js",
+    "static/css/164.ac1be803.chunk.css": "/static/css/164.ac1be803.chunk.css",
+    "static/js/164.eb51db69.chunk.js": "/static/js/164.eb51db69.chunk.js",
+    "static/css/616.89a56fea.chunk.css": "/static/css/616.89a56fea.chunk.css",
+    "static/js/616.310977c4.chunk.js": "/static/js/616.310977c4.chunk.js",
+    "static/css/72.64e5f390.chunk.css": "/static/css/72.64e5f390.chunk.css",
+    "static/js/72.b73c4c3d.chunk.js": "/static/js/72.b73c4c3d.chunk.js",
+    "static/css/48.aee6d4c5.chunk.css": "/static/css/48.aee6d4c5.chunk.css",
+    "static/js/48.67a8ea73.chunk.js": "/static/js/48.67a8ea73.chunk.js",
+    "static/js/468.6e917e08.chunk.js": "/static/js/468.6e917e08.chunk.js",
+    "index.html": "/index.html",
+    "main.f8402ba7.css.map": "/static/css/main.f8402ba7.css.map",
+    "main.f5793dfa.js.map": "/static/js/main.f5793dfa.js.map",
+    "864.a802fa34.chunk.css.map": "/static/css/864.a802fa34.chunk.css.map",
+    "864.ec3d3e40.chunk.js.map": "/static/js/864.ec3d3e40.chunk.js.map",
+    "164.ac1be803.chunk.css.map": "/static/css/164.ac1be803.chunk.css.map",
+    "164.eb51db69.chunk.js.map": "/static/js/164.eb51db69.chunk.js.map",
+    "616.89a56fea.chunk.css.map": "/static/css/616.89a56fea.chunk.css.map",
+    "616.310977c4.chunk.js.map": "/static/js/616.310977c4.chunk.js.map",
+    "72.64e5f390.chunk.css.map": "/static/css/72.64e5f390.chunk.css.map",
+    "72.b73c4c3d.chunk.js.map": "/static/js/72.b73c4c3d.chunk.js.map",
+    "48.aee6d4c5.chunk.css.map": "/static/css/48.aee6d4c5.chunk.css.map",
+    "48.67a8ea73.chunk.js.map": "/static/js/48.67a8ea73.chunk.js.map",
+    "468.6e917e08.chunk.js.map": "/static/js/468.6e917e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8402ba7.css",
+    "static/js/main.f5793dfa.js"
+  ]
+}
